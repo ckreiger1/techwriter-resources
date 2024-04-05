@@ -1,6 +1,6 @@
 site_name: MKLorum
 nav:
-  - Home: index.md
-  - About: about.md
-theme: readthedocs
-  
+theme: 
+  name: material
+  features:
+    - navigation.tabs
