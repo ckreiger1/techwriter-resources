@@ -1,2 +1,2 @@
 # Videos
-Videos are helpful for training.
+Here's some useful videos.
