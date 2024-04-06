@@ -1,5 +1,11 @@
 site_name: Resources for Technical Writers
 nav:
+  - Home: index.md
+  - Blogs: blogs.md
+  - Videos: videos.md
+  - Flare: madcapflarebasics
+  - MkDocs: mkdocstips.md
+  - Topic-Based Writing: topic-basedwriting
 theme: 
   name: material
   features:

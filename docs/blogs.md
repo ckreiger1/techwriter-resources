@@ -1,4 +1,4 @@
-# About
+# Blogs
 
 This is a practice site for MKDocs learning and training.
 
