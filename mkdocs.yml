@@ -3,9 +3,9 @@ nav:
   - Home: index.md
   - Blogs: blogs.md
   - Videos: videos.md
-  - Flare: madcapflarebasics
+  - Flare: madcapflarebasics.md
   - MkDocs: mkdocstips.md
-  - Topic-Based Writing: topic-basedwriting
+  - Topic-Based Writing: topic-basedwriting.md
 theme: 
   name: material
   features:
