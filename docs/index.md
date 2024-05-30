@@ -1,3 +1,3 @@
 # Resources for Technical Writers
 
-This site is dedicated to compiling useful resources for technical writers. 
+This site compiles useful resources for technical writers. 
