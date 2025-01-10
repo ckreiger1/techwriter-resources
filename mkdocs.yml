@@ -3,6 +3,7 @@ nav:
   - Home: index.md
   - Blogs: blogs.md
   - Videos: videos.md
+  - Markdown Tips: markdowntips.md
   - Flare: madcapflarebasics.md
   - MkDocs: mkdocstips.md
   - Topic-Based Writing: topic-basedwriting.md
