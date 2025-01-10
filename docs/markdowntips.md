@@ -22,23 +22,51 @@ Emphasis
 *Italics*: This is how you use italics.  
 ***Bold and italics together*** is not often used.
 
-### Ordered Lists
+### Ordered lists
 
 To complete the steps required for this task:  
-1. Click on the **Start** button.
-2. Select the applicable option.
-3. Complete the form.
-4. Click **Save**. 
+1. Click on the **Start** button.  
+2. Select the applicable option.  
+3. Complete the form.  
+4. Click **Save**.  
 
 Longer list with indents  
 To complete the steps required for this task:  
-1. Click on the **Start** button.
-1. Do something.
-1. Do something else.
-1. Do the next thing.
-    1. Do this thing too.
-    1. And this thing too.
-1. Then do these things.
+1.  Click on the **Start** button.  
+1.  Do something.  
+2.  Do something else.  
+3.  Do the next thing.  
+    1. Do something.   
+4.  Then do these things.  
 
-### Unordered Lists
+### Unordered lists
+
+* First item
+* Second item
+* Third item
+
+### Table example
+
+| Column Heading | Second Column Heading | Third Column Heading | Fourth Column Heading |
+| ---- | ---- | ---- | ---- |
+| Details | More | More | More |
+| More | More | Even More | And More |
+
+### Task List
+
+* [x] Do this first.
+* [ ] Then this.
+* [ ] Then finally this.
+
+### Admonition
+
+!!! Warning  
+    Here is a warning statement!  
+
+### Hyperlinks
+[title](https://www.example.com)  
+[title](./blogs.md)
+
+
+
 
