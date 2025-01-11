@@ -7,7 +7,7 @@ And another paragraph.
 
 ## Heading 2
 
-Here's some text under a sub heading.
+Here's some text under a sub heading.  
 
 ### Heading 3
 
