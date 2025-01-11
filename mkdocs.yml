@@ -11,3 +11,12 @@ theme:
   name: material
   features:
     - navigation.tabs
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - pymdownx.details

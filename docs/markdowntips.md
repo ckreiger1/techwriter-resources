@@ -1,5 +1,6 @@
-# Heading 1
+# Markdown tips
 
+Here I used a Heading 1 to start my page.  
 Paragraph text requires no special syntax.  
 Here's another paragraph.  
 And another paragraph.
@@ -16,7 +17,7 @@ Here's some text under another sub heading.
 
 ---
 
-Emphasis
+### Emphasis
 
 **Note**: This is how you bold.  
 *Italics*: This is how you use italics.  
@@ -24,20 +25,20 @@ Emphasis
 
 ### Ordered lists
 
-To complete the steps required for this task:  
+To complete the steps required for this task: 
+
 1. Click on the **Start** button.  
 2. Select the applicable option.  
 3. Complete the form.  
 4. Click **Save**.  
 
 Longer list with indents  
-To complete the steps required for this task:  
-1.  Click on the **Start** button.  
-1.  Do something.  
-2.  Do something else.  
-3.  Do the next thing.  
-    1. Do something.   
-4.  Then do these things.  
+To complete the steps required for this task:   
+
+1. Item one.
+1. Item two.
+    1.   Item here.
+1. Item four.    
 
 ### Unordered lists
 
