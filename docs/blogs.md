@@ -1,6 +1,6 @@
 # Blogs
 
-This is a practice site for MKDocs learning and training. I will add more blog references to this page in the future. 
+This is a practice site for MkDocs learning and training. I will add more blog references to this page in the future. 
 
 ## Second Heading
 

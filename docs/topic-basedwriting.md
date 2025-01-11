@@ -21,7 +21,7 @@ Topic-based authoring is a modular approach to content creation where content is
 
 >  *Source cited: [Every Page is Page One, Topic-based Writing for Technical Communication and the Web](https://xmlpress.net/publications/eppo/), by Mark Baker* 
 
-## Advantages to Topic-Based Writing
+## Advantages to topic-based writing
 - Consistency
 - Efficiency (time-saving techniques)
 - Publishing in an agile environment (smaller editorial samples)
