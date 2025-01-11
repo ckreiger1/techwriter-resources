@@ -1,4 +1,4 @@
-# Topic Based Writing
+# Topic-based writing
 Topic-based authoring is a modular approach to content creation where content is structured around topics that can be mixed and reused in different contexts. It is defined in contrast with book-oriented or narrative content, written in the linear structure of written books.
 
 |Topic-based Writing |Document Based Writing
@@ -10,7 +10,7 @@ Topic-based authoring is a modular approach to content creation where content is
 |Single-sourcing content |Multi-sourcing conten
 |Tools: MadCap Flare, DITA |Tools: Microsoft Word, Google Docs |
 
-## Every Page is Page One Characteristics
+## Every Page is Page One characteristics
 - Self-contained
 - Specific and Limited Purpose
 - Conform to a Type
