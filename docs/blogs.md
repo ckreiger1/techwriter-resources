@@ -1,9 +1,12 @@
-# Blogs
+# Recommended technical writing blogs
 
-This is a practice site for MkDocs learning and training. I will add more blog references to this page in the future. 
+Here's a selection of recommended technical writing blogs. Whether you're a seasoned professional or just starting your journey as a technical writer, these blogs offer invaluable insights, tips, and resources. Explore these sources to stay up-to-date in the latest industry trends and news.
 
-## Second Heading
-
-This is more text under another heading. This is a test commit.
-
-## Things that have changed
+* [MadBlog](https://www.madcapsoftware.com/blog/)  
+* [Passo.Uno](https://passo.uno/)  
+* [I'd Rather Be Writing](https://idratherbewriting.com/)  
+* [I Create Docs](https://icreatedocs.wordpress.com/)  
+* [TechWhirl](https://techwhirl.com/)  
+* [Beyond the Bleeding Edge](https://hyperword.blogspot.com/)  
+* [Write the Docs](https://www.writethedocs.org/blog/index.html)  
+* [The Content Wrangler](https://www.thecontentwrangler.com/)  
