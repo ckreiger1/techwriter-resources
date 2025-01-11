@@ -1,2 +1,2 @@
-# MadCap Flare Basics
+# MadCap Flare Basics  
 ![Basic Workflow Diagram for Flare.](images\Flare_Workflow.png)
