@@ -1,12 +1,23 @@
 site_name: Resources for Technical Writers
 nav:
+nav:
   - Home: index.md
-  - Blogs: blogs.md
-  - Videos: videos.md
-  - Markdown Tips: markdowntips.md
-  - Flare: madcapflarebasics.md
-  - MkDocs: mkdocstips.md
-  - Topic-Based Writing: topic-basedwriting.md
+  - Technical Tools: 
+    - Technical Writing Tools: technicalwritingtools.md  
+    - Flare Basics: madcapflarebasics.md
+    - MkDocs Tips: mkdocstips.md
+  - Document Planning: 
+    - Doc Planning: docplanning.md
+  - Style Guides: 
+    - Style Guides: styleguides.md
+  - Strategies:
+    - Strategies: strategies.md
+    - Topic-based writing: topic-basedwriting.md
+    - Markdown writing: markdowntips.md
+  - Blogs and Videos: 
+    - Blogs: blogs.md
+    - Videos: videos.md
+  - About Me: aboutme.md
 theme: 
   name: material
   features:
