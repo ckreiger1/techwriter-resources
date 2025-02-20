@@ -1,0 +1,8 @@
+nav:
+  - Home: index.md
+  - tools
+  - styles
+  - planning
+  - strategies
+  - blogs
+  - About Me: aboutme.md

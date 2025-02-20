@@ -66,7 +66,7 @@ To complete the steps required for this task:
 
 ### Hyperlinks
 [title](https://www.example.com)  
-[title](./blogs.md)
+[title](../blogs/blogs.md)
 
 
 

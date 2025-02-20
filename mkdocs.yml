@@ -1,25 +1,30 @@
 site_name: Resources for Technical Writers
-nav:
-nav:
-  - Home: index.md
-  - Technical Tools: 
-    - Technical Writing Tools: technicalwritingtools.md  
-    - Flare Basics: madcapflarebasics.md
-    - MkDocs Tips: mkdocstips.md
-  - Document Planning: 
-    - Doc Planning: docplanning.md
-  - Style Guides: 
-    - Style Guides: styleguides.md
-  - Strategies:
-    - Strategies: strategies.md
-    - Topic-based writing: topic-basedwriting.md
-    - Markdown writing: markdowntips.md
-  - Blogs and Videos: 
-    - Blogs: blogs.md
-    - Videos: videos.md
-  - About Me: aboutme.md
-theme: 
+theme:
   name: material
+  font: 
+    text: Merriweather Sans
+    Code: Red Hat Mono
+  icon:
+    logo: material/file-document
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: green
+      accent: deep purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+
+  markdown_extensions:
+  
   features:
     - navigation.tabs
 markdown_extensions:
@@ -31,3 +36,8 @@ markdown_extensions:
   - md_in_html
   - tables
   - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+plugins:
+    - awesome-nav
