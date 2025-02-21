@@ -1,2 +1,2 @@
 # Videos
-This page is under development.
+This page is under development. Coming soon!
