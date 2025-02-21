@@ -1,6 +1,6 @@
 # Recommended technical writing blogs
 
-Here's a selection of recommended technical writing blogs. Whether you're a seasoned professional or just starting your journey as a technical writer, these blogs offer invaluable insights, tips, and resources. Explore these sources to stay up-to-date in the latest industry trends and news.
+Here's a selection of recommended technical writing blogs. Whether you're a seasoned professional or just starting your journey as a technical writer, these blogs offer invaluable insights, tips, and resources. Explore these sources to stay up-to-date in the latest industry trends and news:
 
 * [MadBlog](https://www.madcapsoftware.com/blog/)  
 * [Passo.Uno](https://passo.uno/)  
