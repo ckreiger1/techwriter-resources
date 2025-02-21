@@ -1,5 +1,7 @@
 # Markdown tips
 
+This topic is designed as a template to be used for writing in markdown. 
+
 Here I used a Heading 1 to start my page.  
 Paragraph text requires no special syntax.  
 Here's another paragraph.  
@@ -20,7 +22,9 @@ Here's some text under another sub heading.
 ### Emphasis
 
 **Note**: This is how you bold.  
-*Italics*: This is how you use italics.  
+
+*Italics*: This is how you use italics. 
+
 ***Bold and italics together*** is not often used.
 
 ### Ordered lists
@@ -65,8 +69,9 @@ To complete the steps required for this task:
     Here is a warning statement!  
 
 ### Hyperlinks
-[title](https://www.example.com)  
-[title](../blogs/blogs.md)
+[CNN external hyperlink](https://www.cnn.com)  
+
+[Blogs relative link](../blogs/blogs.md)
 
 
 

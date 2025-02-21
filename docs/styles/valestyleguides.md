@@ -1,3 +1,3 @@
 # Vale style guides
 
-This page will be about how to use Vale for style guide enforcement. This page is still under development. 
+Vale is an open-source tool that helps technical writers enforce consistent writing styles across their documentation. It works as a flexible style checker that automatically checks to maintain writing quality, consistency, and adherence to a defined style guide. You can add style guides, such as the Microsoft Style Guide, or in-house rules for it to check against. In an IDE, like VS Code, you can program Vale to catch writing instances that do not adhere to your style(s) and offer suggestions for better writing in its place. 
