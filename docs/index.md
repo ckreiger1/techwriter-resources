@@ -1,4 +1,4 @@
-# Resources for Technical Writers
+# Resources for technical writers
 
 This site compiles useful resources for technical writers. 
 

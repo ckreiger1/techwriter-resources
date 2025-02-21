@@ -1,4 +1,4 @@
-# Start Writing
+# Start writing
 
 After you complete your document planning and you are ready to begin your writing phase of the documentation process, there are several key steps to gather accurate and relevant information. This includes attending meetings and demos, gathering information from subject matter experts, and testing the software yourself. The goal is to understand the product thoroughly in order to create clear, user-friendly documentation.
 

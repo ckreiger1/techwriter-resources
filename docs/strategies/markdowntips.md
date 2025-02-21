@@ -15,7 +15,7 @@ Here's some text under a sub heading.
 
 Here's some text under another sub heading.
 
-### Section Break
+### Section break
 
 ---
 
@@ -57,7 +57,7 @@ To complete the steps required for this task:
 | Details | More | More | More |
 | More | More | Even More | And More |
 
-### Task List
+### Task list
 
 * [x] Do this first.
 * [ ] Then this.
