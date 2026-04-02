@@ -6,6 +6,7 @@
   * [blogs](docs/blogs/README.md)
     * [Recommended technical writing blogs](docs/blogs/blogs.md)
     * [Videos](docs/blogs/videos.md)
+    * [Add] (docs/blogs/add.md)
   * [processes](docs/processes/README.md)
     * [Document planning](docs/processes/docplanning.md)
     * [Final review](docs/processes/finalreview.md)
